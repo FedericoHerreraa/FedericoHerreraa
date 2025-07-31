@@ -60,3 +60,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
+
+## 🔗 Links
+- :globe_with_meridians: Check out my portfolio: [federicoherrera.com](https://federicoherrera.com)
+- :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/federico-herrera-828636244/)
+
+<br>
+
